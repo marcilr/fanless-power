@@ -1,0 +1,7 @@
+power.txt
+Created Tue Jun 16 13:28:19 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Fanless power supplies
+
