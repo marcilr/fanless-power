@@ -1,0 +1,24 @@
+links.txt
+Created Tue Jun 16 13:29:05 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Fanless power supply related links
+
+
+Links
+=====
+Rosewill SilentNight-500
+500-Watt Fanless Active PFC Power Supply
+o Continuous @ 122 Degrees F (50C)
+o 80 PLUS Platinum,
+o ATX 12V v2.31 & EPS 12V v2.92
+o Intel Haswell, SLI & CrossFire Ready
+o 100 ~ 240V
+o Fan-less Design
+o 80 PLUS Platinum Certified
+o Modular Design
+o Efficiency up to 94%
+Great reviews on this one.
+price: $199.99 (newegg - June 16, 2015
+http://www.newegg.com/Product/Product.aspx?Item=N82E16817182169&cm_re=fanless-_-17-182-169-_-Product
